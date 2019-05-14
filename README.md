@@ -1,5 +1,5 @@
 # ibood-notifier
-This script will notify you whenever a new deal appears on [ibood.com](https://wwww.ibood.com/).
+This script will notify you whenever a new deal appears on [ibood.com](https://www.ibood.com/).
 
 ## Example
 ```js
