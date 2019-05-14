@@ -1,0 +1,19 @@
+{
+  "name": "ibood-notifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/ibood.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "example:scraper": "node examples/scraper.js",
+    "example:watcher": "node examples/watcher.js",
+    "example:notification": "node examples/notification.js"
+  },
+  "author": "Sleeyax",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
