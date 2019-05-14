@@ -21,7 +21,7 @@ watchibood({
     keywords: ['pc', 'smartphone', 'tablet', 'wenger', 'bluetooth'] 
 });
 ``` 
-For more possible use scenarios see the [examples]() directory.
+For more possible use scenarios see the [examples](https://github.com/sleeyax/ibood-notifier/tree/master/examples) directory.
 
 ## Screenshots
 ![discord notification screenshot](https://i.imgur.com/cXdoezX.png)
